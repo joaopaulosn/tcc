@@ -83,6 +83,7 @@ top_degree = df_metrics.sort_values(
 top_betweenness = df_metrics.sort_values(
     by="Intermediacao (Betweenness)", ascending=False
 ).head(10)
+top_closeness = df_metrics.sort_values(by="Proximidade (Closeness)", ascending=False).head(10)
 
 with open("resumo_rede_coautoria.txt", "w", encoding="utf-8") as f:
     f.write("=== RESUMO GLOBAL DA REDE DE COAUTORIA SBSC ===\n")
@@ -108,6 +109,15 @@ with open("resumo_rede_coautoria.txt", "w", encoding="utf-8") as f:
             "Autor",
             "Gênero",
             "Intermediacao (Betweenness)",
+        ]].to_string(index=False)
+    )
+
+    f.write("\n\n=== TOP 10 - PROXIMIDADE ===\n")
+    f.write(
+        top_closeness[[
+            "Autor",
+            "Gênero",
+            "Proximidade (Closeness)",
         ]].to_string(index=False)
     )
 

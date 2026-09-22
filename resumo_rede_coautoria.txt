@@ -28,3 +28,16 @@ Marcos R. S. Borges Masculino                     0.036976
      Vaninha Vieira  Feminino                     0.034526
    Jose M. N. David Masculino                     0.033718
     Leticia Machado  Feminino                     0.030386
+
+=== TOP 10 - PROXIMIDADE ===
+               Autor    Gênero  Proximidade (Closeness)
+     Jonice Oliveira  Feminino                 0.138061
+ Angelica F. S. Dias  Feminino                 0.137984
+ Adriana S. Vivacqua  Feminino                 0.137757
+       Rafael Parizi Masculino                 0.133429
+     Wallace Ugulino Masculino                 0.131745
+           Hugo Fuks Masculino                 0.131400
+Juliana B. S. Franca  Feminino                 0.130307
+    Rodrigo Oliveira Masculino                 0.127782
+ Marcos R. S. Borges Masculino                 0.126428
+   Flavia M. Santoro  Feminino                 0.125415
