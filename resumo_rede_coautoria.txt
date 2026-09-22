@@ -1,0 +1,30 @@
+=== RESUMO GLOBAL DA REDE DE COAUTORIA SBSC ===
+Total de Autores (Nos): 1122
+Total de Colaboracoes (Arestas): 2354
+Numero de Componentes Conectados: 122
+
+=== TOP 10 - CENTRALIDADE DE GRAU ===
+                  Autor    Gênero  Coautores Diretos  Centralidade Grau
+       Jose M. N. David Masculino                 42           0.037467
+        Marco A. Gerosa Masculino                 38           0.033898
+   Juliana B. S. Franca  Feminino                 36           0.032114
+    Adriana S. Vivacqua  Feminino                 36           0.032114
+   Cleidson R. B. Souza Masculino                 36           0.032114
+Carla D. M. Berkenbrock  Feminino                 32           0.028546
+          Bruno Gadelha Masculino                 32           0.028546
+        Jonice Oliveira  Feminino                 31           0.027654
+         Vaninha Vieira  Feminino                 31           0.027654
+    Marcos R. S. Borges Masculino                 29           0.025870
+
+=== TOP 10 - CENTRALIDADE DE INTERMEDIACAO ===
+              Autor    Gênero  Intermediacao (Betweenness)
+      Rafael Parizi Masculino                     0.052355
+    Marco A. Gerosa Masculino                     0.047777
+Angelica F. S. Dias  Feminino                     0.045874
+Adriana S. Vivacqua  Feminino                     0.041653
+    Jonice Oliveira  Feminino                     0.040787
+    Wallace Ugulino Masculino                     0.037114
+Marcos R. S. Borges Masculino                     0.036976
+     Vaninha Vieira  Feminino                     0.034526
+   Jose M. N. David Masculino                     0.033718
+    Leticia Machado  Feminino                     0.030386

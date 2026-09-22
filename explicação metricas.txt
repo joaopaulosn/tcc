@@ -1,0 +1,5 @@
+Grau de Influência (Centralidade de Grau): Mapeia os pesquisadores com mais conexões diretas (ex: José M. N. David, Marco A. Gerosa, Juliana Franca e Adriana Vivacqua), medindo o volume de colaboração e liderança direta.
+
+Pessoas-Chave como Pontes (Intermediação / Betweenness): Revela quem conecta grupos de pesquisa e instituições que antes estavam isolados (ex: Rafael Parizi e Angélica Dias), garantindo a coesão da rede.
+
+Pessoas-Chave por Acesso Rápido (Proximidade / Closeness): Aponta quem está no "centro de gravidade" da comunidade, capaz de disseminar ou acessar dados e projetos com o menor número de intermediários.
